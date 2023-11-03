@@ -7,6 +7,9 @@
 
 
 
+Open Android Studio terminal 
+ ./gradlew :app:downloadApolloSchema --endpoint='https://countries.trevorblades.com/' --schema='app/src/main/graphql/"com/graphqlapp<package name>"/schema.graphqls'
+
 
 
 for ex:
